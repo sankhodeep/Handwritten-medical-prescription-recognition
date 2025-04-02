@@ -1,0 +1,202 @@
+{
+  "specialties": [
+    {
+      "name": "Cardiology",
+      "abbreviation": "Card",
+      "common_conditions": [
+        "Hypertension",
+        "Coronary Artery Disease",
+        "Heart Failure",
+        "Arrhythmia",
+        "Valvular Heart Disease"
+      ],
+      "common_medications": [
+        "Lisinopril",
+        "Metoprolol",
+        "Atorvastatin",
+        "Aspirin",
+        "Clopidogrel"
+      ]
+    },
+    {
+      "name": "Dermatology",
+      "abbreviation": "Derm",
+      "common_conditions": [
+        "Acne",
+        "Eczema",
+        "Psoriasis",
+        "Skin Cancer",
+        "Rosacea"
+      ],
+      "common_medications": [
+        "Tretinoin",
+        "Hydrocortisone",
+        "Clindamycin",
+        "Isotretinoin",
+        "Methotrexate"
+      ]
+    },
+    {
+      "name": "Endocrinology",
+      "abbreviation": "Endo",
+      "common_conditions": [
+        "Diabetes",
+        "Hypothyroidism",
+        "Hyperthyroidism",
+        "Osteoporosis",
+        "Adrenal Disorders"
+      ],
+      "common_medications": [
+        "Metformin",
+        "Levothyroxine",
+        "Insulin",
+        "Alendronate",
+        "Prednisone"
+      ]
+    },
+    {
+      "name": "Gastroenterology",
+      "abbreviation": "GI",
+      "common_conditions": [
+        "GERD",
+        "Peptic Ulcer Disease",
+        "Inflammatory Bowel Disease",
+        "Irritable Bowel Syndrome",
+        "Hepatitis"
+      ],
+      "common_medications": [
+        "Omeprazole",
+        "Pantoprazole",
+        "Mesalamine",
+        "Loperamide",
+        "Polyethylene Glycol"
+      ]
+    },
+    {
+      "name": "Neurology",
+      "abbreviation": "Neuro",
+      "common_conditions": [
+        "Migraine",
+        "Epilepsy",
+        "Multiple Sclerosis",
+        "Parkinson's Disease",
+        "Alzheimer's Disease"
+      ],
+      "common_medications": [
+        "Sumatriptan",
+        "Levetiracetam",
+        "Interferon Beta",
+        "Carbidopa/Levodopa",
+        "Donepezil"
+      ]
+    },
+    {
+      "name": "Oncology",
+      "abbreviation": "Onc",
+      "common_conditions": [
+        "Breast Cancer",
+        "Lung Cancer",
+        "Colorectal Cancer",
+        "Prostate Cancer",
+        "Lymphoma"
+      ],
+      "common_medications": [
+        "Tamoxifen",
+        "Cisplatin",
+        "Fluorouracil",
+        "Docetaxel",
+        "Rituximab"
+      ]
+    },
+    {
+      "name": "Orthopedics",
+      "abbreviation": "Ortho",
+      "common_conditions": [
+        "Osteoarthritis",
+        "Fractures",
+        "Tendinitis",
+        "Carpal Tunnel Syndrome",
+        "Rotator Cuff Tear"
+      ],
+      "common_medications": [
+        "Ibuprofen",
+        "Naproxen",
+        "Celecoxib",
+        "Tramadol",
+        "Prednisone"
+      ]
+    },
+    {
+      "name": "Pediatrics",
+      "abbreviation": "Peds",
+      "common_conditions": [
+        "Otitis Media",
+        "Bronchiolitis",
+        "Asthma",
+        "Pharyngitis",
+        "Gastroenteritis"
+      ],
+      "common_medications": [
+        "Amoxicillin",
+        "Albuterol",
+        "Azithromycin",
+        "Ibuprofen",
+        "Acetaminophen"
+      ]
+    },
+    {
+      "name": "Psychiatry",
+      "abbreviation": "Psych",
+      "common_conditions": [
+        "Depression",
+        "Anxiety",
+        "Bipolar Disorder",
+        "Schizophrenia",
+        "ADHD"
+      ],
+      "common_medications": [
+        "Sertraline",
+        "Escitalopram",
+        "Lithium",
+        "Risperidone",
+        "Methylphenidate"
+      ]
+    },
+    {
+      "name": "Pulmonology",
+      "abbreviation": "Pulm",
+      "common_conditions": [
+        "Asthma",
+        "COPD",
+        "Pneumonia",
+        "Pulmonary Fibrosis",
+        "Sleep Apnea"
+      ],
+      "common_medications": [
+        "Albuterol",
+        "Fluticasone/Salmeterol",
+        "Tiotropium",
+        "Montelukast",
+        "Azithromycin"
+      ]
+    },
+    {
+      "name": "Ear, Nose, and Throat",
+      "abbreviation": "ENT",
+      "common_conditions": [
+        "Sinusitis",
+        "Tonsillitis",
+        "Otitis Media",
+        "Hearing Loss",
+        "Vertigo"
+      ],
+      "common_medications": [
+        "Amoxicillin",
+        "Pseudoephedrine",
+        "Fluticasone Nasal Spray",
+        "Ciprofloxacin Otic",
+        "Prednisone"
+      ]
+    }
+  ]
+}

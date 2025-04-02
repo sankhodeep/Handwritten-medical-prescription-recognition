@@ -1,0 +1,65 @@
+{
+  "data_sources": {
+    "medications": {
+      "type": "local",
+      "path": "data/medications.json"
+    },
+    "doctors": {
+      "type": "local",
+      "path": "data/doctors.json"
+    },
+    "symptoms": {
+      "type": "local",
+      "path": "data/symptoms.json"
+    },
+    "external_medications_api": {
+      "type": "api",
+      "url": "https://api.example.com/medications",
+      "api_key": "YOUR_API_KEY_HERE",
+      "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json"
+      }
+    },
+    "external_conditions_api": {
+      "type": "api",
+      "url": "https://api.example.com/conditions",
+      "api_key": "YOUR_API_KEY_HERE",
+      "headers": {
+        "Content-Type": "application/json",
+        "Accept": "application/json"
+      }
+    }
+  },
+  "api": {
+    "base_url": "https://api.example.com/medical",
+    "api_key": "YOUR_API_KEY_HERE",
+    "timeout": 30,
+    "retry_attempts": 3,
+    "retry_delay": 2
+  },
+  "cache": {
+    "enabled": true,
+    "ttl": 86400,
+    "max_size": 1000
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "logs/mcp.log",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  },
+  "custom_rules": [
+    {
+      "name": "pediatric_dosage_check",
+      "description": "Check if medication dosages are appropriate for pediatric patients",
+      "condition": "patient.age < 18",
+      "action": "retrieve_pediatric_dosages"
+    },
+    {
+      "name": "pregnancy_safety_check",
+      "description": "Check if medications are safe for pregnant patients",
+      "condition": "patient.pregnant == true",
+      "action": "retrieve_pregnancy_safety_data"
+    }
+  ]
+}

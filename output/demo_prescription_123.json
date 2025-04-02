@@ -1,0 +1,21 @@
+{
+  "prescription_id": "demo_prescription_123",
+  "confidence_score": 0.85,
+  "transcription": {
+    "medications": "1. Amoxicillin 500mg\n   1 tablet 3 times daily for 10 days\n\n2. Ibuprofen 400mg\n   1 tablet every 6 hours as needed for pain",
+    "diagnosis": "Diagnosis: Acute sinusitis",
+    "doctor_info": "Dr. John Smith\nMedical Center\n123 Health St.",
+    "patient_info": "Patient: Jane Doe\nAge: 45",
+    "signature": "Signature: J. Smith, MD",
+    "referral": "Refer to: Dr. Sarah Johnson, ENT",
+    "instructions": "Follow up in 2 weeks"
+  },
+  "warnings": [
+    {
+      "type": "warning",
+      "description": "Dosage for Amoxicillin might be unclear",
+      "location": "medications"
+    }
+  ],
+  "original_image": "data/sample_images/README.txt"
+}

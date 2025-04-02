@@ -1,0 +1,33 @@
+PRESCRIPTION TRANSCRIPTION (ID: demo_prescription_123)
+Confidence Score: 0.85
+
+--- MEDICATIONS ---
+1. Amoxicillin 500mg
+   1 tablet 3 times daily for 10 days
+
+2. Ibuprofen 400mg
+   1 tablet every 6 hours as needed for pain
+
+--- DIAGNOSIS ---
+Diagnosis: Acute sinusitis
+
+--- DOCTOR_INFO ---
+Dr. John Smith
+Medical Center
+123 Health St.
+
+--- PATIENT_INFO ---
+Patient: Jane Doe
+Age: 45
+
+--- SIGNATURE ---
+Signature: J. Smith, MD
+
+--- REFERRAL ---
+Refer to: Dr. Sarah Johnson, ENT
+
+--- INSTRUCTIONS ---
+Follow up in 2 weeks
+
+--- WARNINGS ---
+* WARNING: Dosage for Amoxicillin might be unclear (in medications)

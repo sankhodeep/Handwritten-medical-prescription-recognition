@@ -1,0 +1,285 @@
+{
+  "common_symptoms": [
+    {
+      "name": "Fever",
+      "related_conditions": [
+        "Infection",
+        "Inflammation",
+        "Influenza",
+        "COVID-19",
+        "Pneumonia",
+        "Urinary Tract Infection",
+        "Sinusitis"
+      ],
+      "common_medications": [
+        "Acetaminophen",
+        "Ibuprofen",
+        "Naproxen"
+      ]
+    },
+    {
+      "name": "Headache",
+      "related_conditions": [
+        "Migraine",
+        "Tension Headache",
+        "Sinusitis",
+        "Hypertension",
+        "Concussion",
+        "Meningitis"
+      ],
+      "common_medications": [
+        "Acetaminophen",
+        "Ibuprofen",
+        "Sumatriptan",
+        "Rizatriptan",
+        "Topiramate"
+      ]
+    },
+    {
+      "name": "Cough",
+      "related_conditions": [
+        "Common Cold",
+        "Influenza",
+        "Bronchitis",
+        "Pneumonia",
+        "Asthma",
+        "COPD",
+        "COVID-19",
+        "Sinusitis"
+      ],
+      "common_medications": [
+        "Dextromethorphan",
+        "Guaifenesin",
+        "Benzonatate",
+        "Codeine",
+        "Albuterol"
+      ]
+    },
+    {
+      "name": "Fatigue",
+      "related_conditions": [
+        "Anemia",
+        "Depression",
+        "Hypothyroidism",
+        "Sleep Apnea",
+        "Chronic Fatigue Syndrome",
+        "Diabetes",
+        "Heart Failure"
+      ],
+      "common_medications": [
+        "Iron Supplements",
+        "Levothyroxine",
+        "Modafinil",
+        "Vitamin B12"
+      ]
+    },
+    {
+      "name": "Nausea",
+      "related_conditions": [
+        "Gastroenteritis",
+        "Food Poisoning",
+        "Migraine",
+        "Pregnancy",
+        "Motion Sickness",
+        "Medication Side Effect",
+        "Vertigo"
+      ],
+      "common_medications": [
+        "Ondansetron",
+        "Promethazine",
+        "Metoclopramide",
+        "Dimenhydrinate",
+        "Prochlorperazine"
+      ]
+    },
+    {
+      "name": "Abdominal Pain",
+      "related_conditions": [
+        "Gastritis",
+        "Peptic Ulcer Disease",
+        "Appendicitis",
+        "Gallstones",
+        "Irritable Bowel Syndrome",
+        "Inflammatory Bowel Disease",
+        "Pancreatitis",
+        "Kidney Stones"
+      ],
+      "common_medications": [
+        "Omeprazole",
+        "Famotidine",
+        "Dicyclomine",
+        "Hyoscyamine",
+        "Acetaminophen",
+        "Ibuprofen"
+      ]
+    },
+    {
+      "name": "Dizziness",
+      "related_conditions": [
+        "Vertigo",
+        "Hypotension",
+        "Anemia",
+        "Dehydration",
+        "Medication Side Effect",
+        "Anxiety",
+        "Inner Ear Infection"
+      ],
+      "common_medications": [
+        "Meclizine",
+        "Dimenhydrinate",
+        "Betahistine",
+        "Prochlorperazine"
+      ]
+    },
+    {
+      "name": "Shortness of Breath",
+      "related_conditions": [
+        "Asthma",
+        "COPD",
+        "Pneumonia",
+        "Heart Failure",
+        "Pulmonary Embolism",
+        "Anxiety",
+        "COVID-19"
+      ],
+      "common_medications": [
+        "Albuterol",
+        "Ipratropium",
+        "Fluticasone/Salmeterol",
+        "Montelukast",
+        "Prednisone"
+      ]
+    },
+    {
+      "name": "Chest Pain",
+      "related_conditions": [
+        "Angina",
+        "Myocardial Infarction",
+        "Gastroesophageal Reflux Disease",
+        "Costochondritis",
+        "Pulmonary Embolism",
+        "Anxiety",
+        "Pneumonia"
+      ],
+      "common_medications": [
+        "Nitroglycerin",
+        "Aspirin",
+        "Omeprazole",
+        "Acetaminophen",
+        "Ibuprofen"
+      ]
+    },
+    {
+      "name": "Rash",
+      "related_conditions": [
+        "Eczema",
+        "Contact Dermatitis",
+        "Psoriasis",
+        "Drug Reaction",
+        "Urticaria",
+        "Fungal Infection",
+        "Viral Exanthem"
+      ],
+      "common_medications": [
+        "Hydrocortisone",
+        "Triamcinolone",
+        "Diphenhydramine",
+        "Cetirizine",
+        "Loratadine"
+      ]
+    },
+    {
+      "name": "Joint Pain",
+      "related_conditions": [
+        "Osteoarthritis",
+        "Rheumatoid Arthritis",
+        "Gout",
+        "Lupus",
+        "Fibromyalgia",
+        "Tendinitis",
+        "Bursitis"
+      ],
+      "common_medications": [
+        "Acetaminophen",
+        "Ibuprofen",
+        "Naproxen",
+        "Celecoxib",
+        "Prednisone",
+        "Colchicine"
+      ]
+    },
+    {
+      "name": "Sore Throat",
+      "related_conditions": [
+        "Pharyngitis",
+        "Streptococcal Infection",
+        "Tonsillitis",
+        "Common Cold",
+        "Influenza",
+        "Mononucleosis",
+        "Allergies"
+      ],
+      "common_medications": [
+        "Acetaminophen",
+        "Ibuprofen",
+        "Amoxicillin",
+        "Penicillin",
+        "Benzocaine Lozenges"
+      ]
+    },
+    {
+      "name": "Runny Nose",
+      "related_conditions": [
+        "Common Cold",
+        "Allergic Rhinitis",
+        "Sinusitis",
+        "Influenza",
+        "Vasomotor Rhinitis"
+      ],
+      "common_medications": [
+        "Pseudoephedrine",
+        "Phenylephrine",
+        "Cetirizine",
+        "Loratadine",
+        "Fluticasone Nasal Spray"
+      ]
+    },
+    {
+      "name": "Ear Pain",
+      "related_conditions": [
+        "Otitis Media",
+        "Otitis Externa",
+        "Eustachian Tube Dysfunction",
+        "Temporomandibular Joint Disorder",
+        "Dental Abscess"
+      ],
+      "common_medications": [
+        "Amoxicillin",
+        "Acetaminophen",
+        "Ibuprofen",
+        "Ciprofloxacin Otic",
+        "Ofloxacin Otic"
+      ]
+    },
+    {
+      "name": "Back Pain",
+      "related_conditions": [
+        "Muscle Strain",
+        "Herniated Disc",
+        "Spinal Stenosis",
+        "Osteoarthritis",
+        "Sciatica",
+        "Kidney Infection",
+        "Kidney Stones"
+      ],
+      "common_medications": [
+        "Acetaminophen",
+        "Ibuprofen",
+        "Naproxen",
+        "Cyclobenzaprine",
+        "Methocarbamol",
+        "Gabapentin"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "common_medications": [
+    {
+      "name": "Amoxicillin",
+      "dosages": ["250mg", "500mg", "875mg"],
+      "forms": ["tablet", "capsule", "suspension"],
+      "common_usage": "Bacterial infections",
+      "frequency": ["TID", "BID", "QD"],
+      "duration": ["7 days", "10 days", "14 days"]
+    },
+    {
+      "name": "Ibuprofen",
+      "dosages": ["200mg", "400mg", "600mg", "800mg"],
+      "forms": ["tablet", "capsule", "suspension"],
+      "common_usage": "Pain, inflammation, fever",
+      "frequency": ["QID", "TID", "PRN"],
+      "duration": ["as needed", "3-5 days", "7-10 days"]
+    },
+    {
+      "name": "Lisinopril",
+      "dosages": ["5mg", "10mg", "20mg", "40mg"],
+      "forms": ["tablet"],
+      "common_usage": "Hypertension, heart failure",
+      "frequency": ["QD", "BID"],
+      "duration": ["ongoing"]
+    },
+    {
+      "name": "Metformin",
+      "dosages": ["500mg", "850mg", "1000mg"],
+      "forms": ["tablet", "extended-release tablet"],
+      "common_usage": "Type 2 diabetes",
+      "frequency": ["QD", "BID"],
+      "duration": ["ongoing"]
+    },
+    {
+      "name": "Atorvastatin",
+      "dosages": ["10mg", "20mg", "40mg", "80mg"],
+      "forms": ["tablet"],
+      "common_usage": "Hypercholesterolemia",
+      "frequency": ["QD"],
+      "duration": ["ongoing"]
+    },
+    {
+      "name": "Levothyroxine",
+      "dosages": ["25mcg", "50mcg", "75mcg", "88mcg", "100mcg", "112mcg", "125mcg", "137mcg", "150mcg", "175mcg", "200mcg"],
+      "forms": ["tablet"],
+      "common_usage": "Hypothyroidism",
+      "frequency": ["QD"],
+      "duration": ["ongoing"]
+    },
+    {
+      "name": "Amlodipine",
+      "dosages": ["2.5mg", "5mg", "10mg"],
+      "forms": ["tablet"],
+      "common_usage": "Hypertension, angina",
+      "frequency": ["QD"],
+      "duration": ["ongoing"]
+    },
+    {
+      "name": "Omeprazole",
+      "dosages": ["10mg", "20mg", "40mg"],
+      "forms": ["capsule", "tablet"],
+      "common_usage": "GERD, peptic ulcer disease",
+      "frequency": ["QD", "BID"],
+      "duration": ["4-8 weeks", "ongoing"]
+    },
+    {
+      "name": "Albuterol",
+      "dosages": ["90mcg/actuation"],
+      "forms": ["inhaler"],
+      "common_usage": "Asthma, COPD",
+      "frequency": ["Q4-6H PRN", "BID", "TID", "QID"],
+      "duration": ["as needed", "ongoing"]
+    },
+    {
+      "name": "Hydrochlorothiazide",
+      "dosages": ["12.5mg", "25mg", "50mg"],
+      "forms": ["tablet"],
+      "common_usage": "Hypertension, edema",
+      "frequency": ["QD"],
+      "duration": ["ongoing"]
+    }
+  ]
+}
